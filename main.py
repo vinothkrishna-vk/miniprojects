@@ -19,3 +19,4 @@ for i in range(length):
     password += random.choice(characters)
 print("\nGenerated Password:")
 print(password)
+print("Bye Bye")
